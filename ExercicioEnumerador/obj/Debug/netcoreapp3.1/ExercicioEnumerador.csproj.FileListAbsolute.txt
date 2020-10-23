@@ -1,0 +1,13 @@
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\ExercicioEnumerador\ExercicioEnumerador\bin\Debug\netcoreapp3.1\ExercicioEnumerador.exe
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\ExercicioEnumerador\ExercicioEnumerador\bin\Debug\netcoreapp3.1\ExercicioEnumerador.deps.json
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\ExercicioEnumerador\ExercicioEnumerador\bin\Debug\netcoreapp3.1\ExercicioEnumerador.runtimeconfig.json
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\ExercicioEnumerador\ExercicioEnumerador\bin\Debug\netcoreapp3.1\ExercicioEnumerador.runtimeconfig.dev.json
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\ExercicioEnumerador\ExercicioEnumerador\bin\Debug\netcoreapp3.1\ExercicioEnumerador.dll
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\ExercicioEnumerador\ExercicioEnumerador\bin\Debug\netcoreapp3.1\ExercicioEnumerador.pdb
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\ExercicioEnumerador\ExercicioEnumerador\obj\Debug\netcoreapp3.1\ExercicioEnumerador.csprojAssemblyReference.cache
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\ExercicioEnumerador\ExercicioEnumerador\obj\Debug\netcoreapp3.1\ExercicioEnumerador.AssemblyInfoInputs.cache
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\ExercicioEnumerador\ExercicioEnumerador\obj\Debug\netcoreapp3.1\ExercicioEnumerador.AssemblyInfo.cs
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\ExercicioEnumerador\ExercicioEnumerador\obj\Debug\netcoreapp3.1\ExercicioEnumerador.csproj.CoreCompileInputs.cache
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\ExercicioEnumerador\ExercicioEnumerador\obj\Debug\netcoreapp3.1\ExercicioEnumerador.dll
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\ExercicioEnumerador\ExercicioEnumerador\obj\Debug\netcoreapp3.1\ExercicioEnumerador.pdb
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\ExercicioEnumerador\ExercicioEnumerador\obj\Debug\netcoreapp3.1\ExercicioEnumerador.genruntimeconfig.cache
